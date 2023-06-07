@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{9DBBAF64-2B47-4C7A-8519-72FB939C3894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain\Domain.csproj", "{D450CC3E-4012-4985-BF5A-9CBAFF952072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D450CC3E-4012-4985-BF5A-9CBAFF952072} = {9DBBAF64-2B47-4C7A-8519-72FB939C3894}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D450CC3E-4012-4985-BF5A-9CBAFF952072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D450CC3E-4012-4985-BF5A-9CBAFF952072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D450CC3E-4012-4985-BF5A-9CBAFF952072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D450CC3E-4012-4985-BF5A-9CBAFF952072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
